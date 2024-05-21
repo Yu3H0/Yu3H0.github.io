@@ -1,8 +1,8 @@
 ```bio-meta
 {
-    "name": "J. Doe",
-    "title": "J. Doe | Curriculum Vitae",
-    "description": "J. Doe&#8217;s curriculum vitae.",
+    "name": "Yuchong Xie",
+    "title": "Yuchong Xie | Curriculum Vitae",
+    "description": "Yuchong Xie&#8217;s curriculum vitae.",
     "url": "https://GeeLaw.github.io/bio-site/",
     "assets": "https://GeeLaw.github.io/bio-site/assets",
     "date-created": "2020-04-21",
@@ -11,15 +11,15 @@
 }
 ```
 
-# J.&nbsp;Doe
+# Yuchong&nbsp;Xie
 
-<figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of J. Doe" width="160" height="160" style="max-width: 160px;" /></figure>
+<figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of Yuchong Xie" width="160" height="160" style="max-width: 160px;" /></figure>
 
-I’m a second-year Ph.D. student in unknown discipline, advised by [unknown professor](https://example.com/). I am interested in some unknown specialized sub-area.
+I’m an incoming Ph.D. student at Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I have broad research interests, including systems security, software engineering, and related topics in AI and web3.
 
-Prior to joining [unknown current university](https://example.com/), I obtained my bachelor’s degree from [unknown previous university](https://example.com/).
+Prior to joining [HKUST](https://hkust.edu.hk/), I obtained my bachelor and master’s degree from [SJTU](https://en.sjtu.edu.cn/).
 
-I can be reached at <span id="_eml" class="gl-eml">someone at example dot com</span>.
+I can be reached at <span id="_eml" class="gl-eml">yu3h0xie at gmail dot com</span>.
 
 ```bio-remove
 Below we use a simple mechanism to mitigate email address reaping.

@@ -17,7 +17,7 @@
 
 I’m an incoming Ph.D. student at Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I have broad research interests, including systems security, software engineering, and related topics in AI and web3.
 
-Prior to joining [HKUST](https://hkust.edu.hk/), I obtained my bachelor and master’s degree from [SJTU](https://en.sjtu.edu.cn/).
+Prior to joining [HKUST](https://hkust.edu.hk/), I obtained my bachelor and master’s degree from [SJTU](https://en.sjtu.edu.cn/). I spent seven wonderful years in Shanghai, playing american  football in [Lions](https://weibo.com/p/1005052985465871/home) and CTF in [0ops](https://ctftime.org/team/4419).
 
 I can be reached at <span id="_eml" class="gl-eml">someone at example dot com</span>.
 
@@ -65,9 +65,23 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 
 ```
 
+## Honors and Awards
++ 2024.03 Outstanding Master Graduate Student of SJTU
++ 2023.12 Qiangwang Cup 2023, Third Place, 0ops
++ 2022.12 XCTF University Cybersecurity Special, Challenge First Place, 0ops
++ 2022.09 First-Class Cybersecurity Academy Scholarship
++ 2022.08 DEFCON CTF 2022, Second Place, Katzebin
++ 2022.08 Qiangwang Cup 2022, Champion, 0ops
++ 2021.12 ByteCTF, First Place, 0ops
++ 2021.08 Qiangwang International Elite Challenge On Cyber Mimic Defense, First Place, 0ops
+
 ## Experience
++ Research Intern, Offside Labs, Web3 Security, 2024.01-2024.04
++ Research Intern, Nio, RTOS Security and Fuzzing, 2022.06-2024.03
 
 ## Academic Service
++ Sub-Reviewer of ISSTA '24, FSE '24.
 
 ## Teaching Experience
++ Teaching Assistant, NIS8017: Security Vulnerability Assessment (Fall 2021, SJTU) 
 

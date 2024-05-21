@@ -1,12 +1,12 @@
 ```bio-meta
 {
     "name": "Yuchong Xie",
-    "title": "Yuchong Xie | Curriculum Vitae",
-    "description": "Yuchong Xie&#8217;s curriculum vitae.",
-    "url": "https://GeeLaw.github.io/bio-site/",
-    "assets": "https://GeeLaw.github.io/bio-site/assets",
+    "title": "Yuchong Xie | Homepage",
+    "description": "Yuchong Xie&#8217;s homepage.",
+    "url": "https://yu3h0.github.io/",
+    "assets": "https://yu3h0.github.io/assets",
     "date-created": "2020-04-21",
-    "repo": "https://github.com/GeeLaw/bio-site",
+    "repo": "https://github.com/Yu3H0/Yu3H0.github.io",
     "tilecolor": "#f2f2f2"
 }
 ```

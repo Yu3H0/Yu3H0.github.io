@@ -19,18 +19,13 @@ I’m an incoming Ph.D. student at Department of Computer Science and Engineerin
 
 Prior to joining [HKUST](https://hkust.edu.hk/), I obtained my bachelor and master’s degree from [SJTU](https://en.sjtu.edu.cn/).
 
-I can be reached at <span id="_eml" class="gl-eml">yu3h0xie at gmail dot com</span>.
-
-```bio-remove
-Below we use a simple mechanism to mitigate email address reaping.
-Change the encoding for your own email address.
-```
+I can be reached at <span id="_eml" class="gl-eml">someone at example dot com</span>.
 
 <!--[bio][protect]
 <script type="application/javascript">
 window.setTimeout(function ()
 {
-var addr = [115,111,109,101,111,110,101,64,101,120,97,109,112,108,101,46,99,111,109];
+var addr = [121, 117, 51, 104, 48, 120, 105, 101, 64, 103, 109, 97, 105, 108, 46, 99, 111, 109];
 addr = String.fromCharCode.apply(String, addr);
 var eml = document.getElementById('_eml');
 eml.innerHTML = '<a href="mailto:' + addr + '">' + addr + '</a>';
@@ -39,9 +34,8 @@ eml.removeAttribute('class');
 </script>
 [bio]-->
 
-This is an example personal homepage built with [bio-site](https://github.com/GeeLaw/bio-site). It features simplicity and integration with BibTeX.
 
-## Building Blocks
+## Publications
 
 ```blog-bib
 
@@ -55,72 +49,25 @@ To support more information links (e.g., add "slides" or "pdf" links),
 see "builder/marked.0.3.6/bibtex-service.js" line 109.
 }
 
-@online{GitHub:BibTeXTS,
-  author = {Ji Luo},
-  title = {{B}ib{T}e{X}-{TS}:
-    General-Purpose Format-Preserving {{\BibTeX}} Parser
-    in {T}ype{S}cript ({J}ava{S}cript)},
-
-  biosite_url = {https://github.com/GeeLaw/bibtex-ts},
-  biosite_venue = {GitHub},
-  biosite_slides = {#},
+@online{FOX,
+  author = {Dongdong She{\large *}  and Adam Storek{\large *} and \textbf{Yuchong Xie} and Seoyoung Kweon and Prashast Srivastava and Suman Jana},
+  title = "FOX: Coverage-guided Fuzzing as Online Stochastic Control",
+  biosite_venue = {ACM SIGSAC Conference on Computer and Communications Security (CCS 2024)},
 }
 
-@online{GitHub:Marked,
-  author = {Christopher Jeffrey and others},
-  title = {Marked: A {M}arkdown Parser and Compiler Built for Speed},
+@online{VDGUARD,
+  author = {Yuwei Liu{\large *} and Siqi Chen{\large *} and \textbf{Yuchong Xie} and Yanhao Wang and Libo Chen and Bin Wang and Yingming Zeng and Zhi Xue and Purui Su},
+  title = "VD-Guard: DMA Guided Fuzzing for Hypervisor Virtual Device",
 
-  biosite_url = {https://github.com/markedjs/marked},
-  biosite_venue = {GitHub},
-  biosite_demo = {https://marked.js.org/demo/},
-}
-
-@online{GitHub:KaTeX,
-  author = {Khan Academy and others},
-  title = "{{\KaTeX}}: Fast Math Typesetting for the Web",
-
-  biosite_url = {https://github.com/KaTeX/KaTeX},
-  biosite_venue = {GitHub},
-  biosite_demo = {https://katex.org/},
+  biosite_url = {https://www.computer.org/csdl/proceedings-article/ase/2023/299600b676/1SBGyX6DfmE},
+  biosite_venue = {IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)},
 }
 
 ```
 
-## Accessibility Examples
+## Experience
 
-```blog-bib
-@misc{Example1,
-  author = {First Author and Second Author},
-  title = {Title without Equation}
-}
+## Academic Service
 
-@misc{Example2,
-  author = {Author One and Author Two and Author Three},
-  title = {Title with Equation $e^{i\pi}+1=0$}
-}
+## Teaching Experience
 
-@misc{Example3,
-  author = {Sole Author},
-  title = {Title with Annotated Equation $e^{i\pi}+1=0$},
-  biosite_arialabel = {Title with Annotated Equation e to the i times pi plus one equals zero}
-}
-
-@misc{Example4,
-  author = {Alice and Bob and Eve and Mallory and others},
-  title = {Link without Equation},
-  biosite_url = {#}
-}
-
-@misc{Example5,
-  author = {Sailor{ }Moon and Tuxedo{ }Mask},
-  title = {Link with Equation $e^{i\pi}+1=0$},
-  biosite_url = {#}
-}
-
-@misc{Example6,
-  author = {Youma and Cardian and Droid and Daimon and Lemures and Phage},
-  title = {Link with Annotated Equation $e^{i\pi}+1=0$},
-  biosite_url = {#},
-  biosite_arialabel = {Link with Annotated Equation e to the i times pi plus one equals zero}
-}
-```

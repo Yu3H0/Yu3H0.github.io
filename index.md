@@ -68,7 +68,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 ## Honors and Awards
 + 2024.03 Outstanding Master Graduate Student of SJTU
 + 2023.12 Qiangwang Cup 2023, Third Place, 0ops
-+ 2022.12 XCTF University Cybersecurity Special, Challenge First Place, 0ops
++ 2022.12 XCTF University Cybersecurity Special Challenge, First Place, 0ops
 + 2022.09 First-Class Cybersecurity Academy Scholarship
 + 2022.08 DEFCON CTF 2022, Second Place, Katzebin
 + 2022.08 Qiangwang Cup 2022, Champion, 0ops

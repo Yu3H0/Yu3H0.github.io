@@ -52,6 +52,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 @online{FOX,
   author = {Dongdong She{\large *}  and Adam Storek{\large *} and \textbf{Yuchong Xie} and Seoyoung Kweon and Prashast Srivastava and Suman Jana},
   title = "FOX: Coverage-guided Fuzzing as Online Stochastic Control",
+  biosite_url = {https://arxiv.org/abs/2406.04517},
   biosite_venue = {ACM SIGSAC Conference on Computer and Communications Security (CCS 2024)},
 }
 

@@ -15,7 +15,7 @@
 
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of Yuchong Xie" width="160" height="160" style="max-width: 160px;" /></figure>
 
-I'm an incoming Ph.D. student at Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I have broad research interests, including systems security, software engineering, and related topics in AI and web3.
+I'm a firsy year Ph.D. student at Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I have broad research interests, including systems security, software engineering, and related topics in AI and web3.
 
 I obtained my bachelor and master's degree from [SJTU](https://en.sjtu.edu.cn/). I spent seven wonderful years in Shanghai, playing american  football in [Lions](https://weibo.com/p/1005052985465871/home) and CTF in [0ops](https://ctftime.org/team/4419).
 

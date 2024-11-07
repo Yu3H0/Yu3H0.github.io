@@ -15,7 +15,7 @@
 
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of Yuchong Xie" width="160" height="160" style="max-width: 160px;" /></figure>
 
-I'm a first year Ph.D. student at Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I have broad research interests, including systems security, software engineering, and related topics in AI and web3.
+I'm a first year Ph.D. student at Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I have broad research interests in systems security (e.g., kernel, browser, and virtualization security), software engineering (e.g., software testing and program analysis), and emerging topics in AI and web3. Currently, my research focuses on leveraging AI techniques to address challenging problems in these domains.
 
 I obtained my bachelor and master's degree from [SJTU](https://en.sjtu.edu.cn/). I spent seven wonderful years in Shanghai, playing american  football in [Lions](https://weibo.com/p/1005052985465871/home) and CTF in [0ops](https://ctftime.org/team/4419).
 
@@ -25,7 +25,7 @@ I can be reached at <span id="_eml" class="gl-eml">someone at example dot com</s
 <script type="application/javascript">
 window.setTimeout(function ()
 {
-var addr = [121, 117, 51, 104, 48, 120, 105, 101, 64, 103, 109, 97, 105, 108, 46, 99, 111, 109];
+var addr = [121, 120, 105, 101, 99, 101, 64, 99, 115, 101, 46, 117, 115, 116, 46, 104, 107];
 addr = String.fromCharCode.apply(String, addr);
 var eml = document.getElementById('_eml');
 eml.innerHTML = '<a href="mailto:' + addr + '">' + addr + '</a>';

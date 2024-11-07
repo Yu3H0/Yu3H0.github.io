@@ -19,19 +19,40 @@ I'm a first year Ph.D. student at Department of Computer Science and Engineering
 
 I obtained my bachelor and master's degree from [SJTU](https://en.sjtu.edu.cn/). I spent seven wonderful years in Shanghai, playing american  football in [Lions](https://weibo.com/p/1005052985465871/home) and CTF in [0ops](https://ctftime.org/team/4419).
 
-I can be reached at <span id="_eml" class="gl-eml">someone at example dot com</span>.
+ Please feel free to reach out via email at <span id="_eml" class="gl-eml">someone at example dot com</span> or <span id="_eml2" class="gl-eml">someone at example dot com</span> :)
 
 <!--[bio][protect]
+
 <script type="application/javascript">
+
 window.setTimeout(function ()
+
 {
-var addr = [121, 120, 105, 101, 99, 101, 64, 99, 115, 101, 46, 117, 115, 116, 46, 104, 107];
-addr = String.fromCharCode.apply(String, addr);
-var eml = document.getElementById('_eml');
-eml.innerHTML = '<a href="mailto:' + addr + '">' + addr + '</a>';
-eml.removeAttribute('class');
+
+var addr1 = [121, 120, 105, 101, 99, 101, 64, 99, 115, 101, 46, 117, 115, 116, 46, 104, 107];
+
+var addr2 = [121, 117, 51, 104, 48, 120, 105, 101, 64, 103, 109, 97, 105, 108, 46, 99, 111, 109];
+
+addr1 = String.fromCharCode.apply(String, addr1);
+
+addr2 = String.fromCharCode.apply(String, addr2);
+
+var eml1 = document.getElementById('_eml');
+
+var eml2 = document.getElementById('_eml2');
+
+eml1.innerHTML = '<a href="mailto:' + addr1 + '">' + addr1 + '</a>';
+
+eml2.innerHTML = '<a href="mailto:' + addr2 + '">' + addr2 + '</a>';
+
+eml1.removeAttribute('class');
+
+eml2.removeAttribute('class');
+
 }, 600);
+
 </script>
+
 [bio]-->
 
 

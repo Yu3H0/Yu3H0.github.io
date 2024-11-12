@@ -1,7 +1,7 @@
 ```bio-meta
 {
     "name": "Yuchong Xie",
-    "title": "Yuchong Xie | Homepage",
+    "title": "Yuchong Xie",
     "description": "Yuchong Xie&#8217;s homepage.",
     "url": "https://yu3h0.github.io/",
     "assets": "https://yu3h0.github.io/assets",

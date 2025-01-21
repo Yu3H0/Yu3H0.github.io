@@ -102,7 +102,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 + Research Intern, Nio, RTOS Security and Fuzzing, 2022.06-2024.03
 
 ## Academic Service
-+ Sub-Reviewer of ISSTA '24, FSE '24.
++ Sub-Reviewer of ISSTA '24, FSE '24, Oakland'25.
 
 ## Teaching Experience
 + Teaching Assistant, NIS8017: Security Vulnerability Assessment (Fall 2021, SJTU) 

@@ -70,6 +70,12 @@ To support more information links (e.g., add "slides" or "pdf" links),
 see "builder/marked.0.3.6/bibtex-service.js" line 109.
 }
 
+@online{ZTaint,
+  author = {\textbf{Yuchong Xie} and Wenhui Zhang and Dongdong She},
+  title = "ZTaint-Havoc: From Havoc Mode to Zero-Execution Fuzzing-Driven Taint Inference",
+  biosite_venue = {ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)},
+}
+
 @online{FOX,
   author = {Dongdong She{\large *}  and Adam Storek{\large *} and \textbf{Yuchong Xie} and Seoyoung Kweon and Prashast Srivastava and Suman Jana},
   title = "FOX: Coverage-guided Fuzzing as Online Stochastic Control",
@@ -88,6 +94,8 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 ```
 
 ## Honors and Awards
++ 2025.04 ISSTA 2025 Travel Grant
++ 2024.10 UGC Research Travel Grant
 + 2024.03 Outstanding Master Graduate Student of SJTU
 + 2023.12 Qiangwang Cup 2023, Third Place, 0ops
 + 2022.12 XCTF University Cybersecurity Special Challenge, First Place, 0ops

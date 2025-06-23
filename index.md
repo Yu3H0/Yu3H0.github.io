@@ -73,6 +73,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 @online{ZTaint,
   author = {\textbf{Yuchong Xie} and Wenhui Zhang and Dongdong She},
   title = "ZTaint-Havoc: From Havoc Mode to Zero-Execution Fuzzing-Driven Taint Inference",
+  biosite_url = {https://arxiv.org/abs/2506.08838},
   biosite_venue = {ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)},
 }
 

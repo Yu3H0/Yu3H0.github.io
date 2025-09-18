@@ -13,9 +13,9 @@
 
 # Yuchong&nbsp;Xie
 
-<figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of Yuchong Xie" width="160" height="160" style="max-width: 160px;" /></figure>
+<figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of Yuchong Xie" width="300" height="200" style="max-width: 300px;" /></figure>
 
-I'm a first year Ph.D. student at Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I have broad research interests in systems security (e.g., kernel, browser, and virtualization security), software engineering (e.g., software testing and program analysis), and emerging topics in AI and web3. Currently, my research focuses on leveraging AI techniques to address challenging problems in these domains.
+I'm a second year Ph.D. student at Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I have broad research interests in systems security (e.g., kernel, browser, and virtualization security), software engineering (e.g., software testing and program analysis), and emerging topics in AI and web3. Currently, my research focuses on leveraging AI techniques to address challenging problems in these domains.
 
 I obtained my bachelor and master's degree from [SJTU](https://en.sjtu.edu.cn/). I spent seven wonderful years in Shanghai, playing american  football in [Lions](https://weibo.com/p/1005052985465871/home) and CTF in [0ops](https://ctftime.org/team/4419).
 
@@ -111,7 +111,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 + Research Intern, Nio, RTOS Security and Fuzzing, 2022.06-2024.03
 
 ## Academic Service
-+ Sub-Reviewer of ISSTA '24, FSE '24, Oakland'25.
++ Sub-Reviewer of ISSTA'24, FSE'24, Oakland'25, ASE'25
 
 ## Teaching Experience
 + Teaching Assistant, NIS8017: Security Vulnerability Assessment (Fall 2021, SJTU) 

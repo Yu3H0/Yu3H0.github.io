@@ -15,7 +15,7 @@
 
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of Yuchong Xie" width="300" height="200" style="max-width: 300px;" /></figure>
 
-I'm a second year Ph.D. student at Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I have broad research interests in systems security (e.g., kernel, browser, and virtualization security), software engineering (e.g., software testing and program analysis), and emerging topics in AI and web3. Currently, my research focuses on leveraging AI techniques to address challenging problems in these domains.
+I'm a second year Ph.D. student at Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I have broad interests in systems and software security. My current work focuses on leveraging AI to enhance traditional security techniques (e.g., fuzzing and static program analysis) and applying them to practical contexts such as IoT and OS. I am also interested in the security of LLM-based agentic systems.
 
 I obtained my bachelor and master's degree from [SJTU](https://en.sjtu.edu.cn/). I spent seven wonderful years in Shanghai, playing american  football in [Lions](https://weibo.com/p/1005052985465871/home) and CTF in [0ops](https://ctftime.org/team/4419).
 
@@ -68,6 +68,14 @@ It is possible to have multiple BibTeX blocks, which will be rendered independen
 
 To support more information links (e.g., add "slides" or "pdf" links),
 see "builder/marked.0.3.6/bibtex-service.js" line 109.
+}
+
+
+@online{sfuzzpro,
+  author = {Jialu Li and Haoyu Li and \textbf{Yuchong Xie} and Yanhao Wang and Qinsheng Hou and Libo Chen and
+Bo Zhang and Shenghong Li and Zhi Xue},
+  title = "Enhancing Real-Time Operating System Security Analysis via Slice-based Fuzzing",
+  biosite_venue = {Transactions on Software Engineering (TSE)},
 }
 
 @online{ZTaint,

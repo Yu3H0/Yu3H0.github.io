@@ -15,7 +15,14 @@
 
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of Yuchong Xie" width="300" height="200" style="max-width: 300px;" /></figure>
 
-I'm a second year Ph.D. student at Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I have broad interests in systems and software security. My current work focuses on leveraging AI to enhance traditional security techniques (e.g., fuzzing and static program analysis) and applying them to practical contexts such as IoT and OS. I am also interested in the security of LLM-based agentic systems.
+I'm a second year Ph.D. student at CSE HKUST, under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). 
+
+I have broad interests in systems and software security. My research lies at the intersection of **Large Language Models (LLMs)** and **Security**. specifically:
+
+- **LLM for Security:** Leveraging LLMs to solve traditional security tasks.
+- **Security of LLM Systems:** Investigating the security risks of LLM-powered agents and the security of LLM training systems.
+
+During my research, I developed a strong interest in LLMs. Driven by this passion, I am currently an intern at the RL team @ Moonshot AI.
 
 I obtained my bachelor and master's degree from [SJTU](https://en.sjtu.edu.cn/). I spent seven wonderful years in Shanghai, playing american  football in [Lions](https://weibo.com/p/1005052985465871/home) and CTF in [0ops](https://ctftime.org/team/4419).
 

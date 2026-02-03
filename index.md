@@ -17,12 +17,7 @@
 
 I'm a second year Ph.D. student at CSE HKUST, under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). 
 
-I have broad interests in systems and software security. My research lies at the intersection of **Large Language Models (LLMs)** and **Security**. specifically:
-
-- **LLM for Security:** Leveraging LLMs to solve traditional security tasks.
-- **Security of LLM Systems:** Investigating the security risks of LLM-powered agents and the security of LLM training systems.
-
-During my research, I developed a strong interest in LLMs. Driven by this passion, I am currently an intern at the RL team @ Moonshot AI.
+I have broad interests in systems and software security. My research lies at the intersection of Large Language Models (LLMs) and Security. I am currently an intern at the **RL team @ Moonshot AI**.
 
 I obtained my bachelor and master's degree from [SJTU](https://en.sjtu.edu.cn/). I spent seven wonderful years in Shanghai, playing american  football in [Lions](https://weibo.com/p/1005052985465871/home) and CTF in [0ops](https://ctftime.org/team/4419).
 
@@ -78,10 +73,18 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 }
 
 
+@online{KimiK25,
+  author = {Kimi Team},
+  title = "Kimi K2.5: Visual Agentic Intelligence",
+  biosite_url = {https://arxiv.org/abs/2602.02276},
+  biosite_venue = {My contribution focuses on coding and agentic capabilities},
+}
+
 @online{sfuzzpro,
   author = {Jialu Li and Haoyu Li and \textbf{Yuchong Xie} and Yanhao Wang and Qinsheng Hou and Libo Chen and
 Bo Zhang and Shenghong Li and Zhi Xue},
   title = "Enhancing Real-Time Operating System Security Analysis via Slice-based Fuzzing",
+  biosite_url = {https://www.computer.org/csdl/journal/ts/2025/12/11185190/2aB2S4Om2ze},
   biosite_venue = {Transactions on Software Engineering (TSE)},
 }
 
@@ -102,7 +105,6 @@ Bo Zhang and Shenghong Li and Zhi Xue},
 @online{VDGUARD,
   author = {Yuwei Liu{\large *} and Siqi Chen{\large *} and \textbf{Yuchong Xie} and Yanhao Wang and Libo Chen and Bin Wang and Yingming Zeng and Zhi Xue and Purui Su},
   title = "VD-Guard: DMA Guided Fuzzing for Hypervisor Virtual Device",
-
   biosite_url = {https://www.computer.org/csdl/proceedings-article/ase/2023/299600b676/1SBGyX6DfmE},
   biosite_venue = {IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)},
 }

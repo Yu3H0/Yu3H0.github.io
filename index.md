@@ -77,7 +77,13 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
   author = {Kimi Team},
   title = "Kimi K2.5: Visual Agentic Intelligence",
   biosite_url = {https://arxiv.org/abs/2602.02276},
-  biosite_venue = {My contribution focuses on coding and agentic capabilities},
+  biosite_venue = {My contribution focuses on developing agentic cybersecurity capabilities. On the CyberGym benchmark, our system established then-open-source state-of-the-art performance and outperformed Gemini 3 Pro.},
+}
+
+@online{RandSet,
+  author = {\textbf{Yuchong Xie} and Kaikai Zhang and Yu Liu and Rundong Yang and Ping Chen and Shuai Wang and Dongdong She},
+  title = "RandSet: Randomized Corpus Reduction for Fuzzing Seed Scheduling",
+  biosite_venue = {ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2026)},
 }
 
 @online{sfuzzpro,

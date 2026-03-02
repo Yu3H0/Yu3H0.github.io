@@ -72,7 +72,6 @@ To support more information links (e.g., add "slides" or "pdf" links),
 see "builder/marked.0.3.6/bibtex-service.js" line 109.
 }
 
-
 @online{KimiK25,
   author = {Kimi Team},
   title = "Kimi K2.5: Visual Agentic Intelligence",
@@ -81,9 +80,22 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 }
 
 @online{RandSet,
-  author = {\textbf{Yuchong Xie} and Kaikai Zhang and Yu Liu and Rundong Yang and Ping Chen and Shuai Wang and Dongdong She},
+  author = {\textbf{Yuchong Xie{\large *}} and Kaikai Zhang{\large *} and Yu Liu and Rundong Yang and Ping Chen and Shuai Wang and Dongdong She},
   title = "RandSet: Randomized Corpus Reduction for Fuzzing Seed Scheduling",
+  biosite_url = {https://arxiv.org/abs/2602.22729},
   biosite_venue = {ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2026)},
+}
+
+@online{KLong,
+  author = {Yue Liu and Yingwei Ma and Yibo Miao and Yanhao Li and \textbf{Yuchong Xie} and Xinlong Yang and Zhiyuan Hu and Flood Sung and Jiaheng Zhang and Bryan Hooi and Tianyu Liu},
+  title = "KLong: Training LLM Agent for Extremely Long-horizon Tasks",
+  biosite_venue = {ICLR 2026 Workshop on Lifelong Agents: Learning, Aligning, Evolving},
+}
+
+@online{AILoop,
+  author = {Minghao Lin and Yinyi Wu and Yingqi Shi and \textbf{Yuchong Xie} and Cheng Li and Yizhuo Wang},
+  title = "AI in the Loop: Large-Scale macOS PID-Domain Vulnerability Discovery with LLM Reasoning",
+  biosite_venue = {Black Hat Asia 2026},
 }
 
 @online{sfuzzpro,

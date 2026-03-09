@@ -89,13 +89,21 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 @online{KLong,
   author = {Yue Liu and Yingwei Ma and Yibo Miao and Yanhao Li and \textbf{Yuchong Xie} and Xinlong Yang and Zhiyuan Hu and Flood Sung and Jiaheng Zhang and Bryan Hooi and Tianyu Liu},
   title = "KLong: Training LLM Agent for Extremely Long-horizon Tasks",
+  biosite_url = {https://arxiv.org/abs/2602.17547},
   biosite_venue = {ICLR 2026 Workshop on Lifelong Agents: Learning, Aligning, Evolving},
 }
 
 @online{AILoop,
   author = {Minghao Lin and Yinyi Wu and Yingqi Shi and \textbf{Yuchong Xie} and Cheng Li and Yizhuo Wang},
   title = "AI in the Loop: Large-Scale macOS PID-Domain Vulnerability Discovery with LLM Reasoning",
+  biosite_url = {https://blackhat.com/asia-26/briefings/schedule/index.html#ai-in-the-loop-large-scale-macos-pid-domain-vulnerability-discovery-with-llm-reasoning-on-demand-only-50233},
   biosite_venue = {Black Hat Asia 2026},
+}
+
+@online{MCPParasites,
+  author = {Shuli Zhao and Qinsheng Hou and Zihan Zhan and Yanhao Wang and \textbf{Yuchong Xie} and Yu Guo and Libo Chen and Shenghong Li and Zhi Xue},
+  title = "Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem",
+  biosite_venue = {IEEE Symposium on Security and Privacy (S\&P 2026)},
 }
 
 @online{sfuzzpro,

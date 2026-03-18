@@ -150,6 +150,7 @@ Bo Zhang and Shenghong Li and Zhi Xue},
 + 2021.08 Qiangwang International Elite Challenge On Cyber Mimic Defense, First Place, 0ops
 
 ## Experience
++ Research Intern, Moonshot AI (Kimi), RL Team, 2025.11-2026.03
 + Research Intern, Offside Labs, Web3 Security, 2024.01-2024.04
 + Research Intern, Nio, RTOS Security and Fuzzing, 2022.06-2024.03
 

@@ -17,7 +17,7 @@
 
 I'm a second year Ph.D. student at CSE HKUST, under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). 
 
-I have broad interests in systems and software security. My research lies at the intersection of Large Language Models (LLMs) and Security. I am currently an intern at the **RL team @ Moonshot AI**.
+I have broad interests in systems and software security. My research lies at the intersection of Large Language Models (LLMs) and Security. I am currently co-leading **Qwen Cyber Agent** at **Qwen** with [Terry](https://terryyz.github.io/), a coding agent with enhanced cybersecurity capabilities. Previously, I was an intern at the **RL team @ Moonshot AI (Kimi)**, where I worked closely with [Tianyu Liu](https://tyliupku.github.io/) and [Yingwei Ma](https://yingweima2022.github.io/).
 
 I obtained my bachelor and master's degree from [SJTU](https://en.sjtu.edu.cn/). I spent seven wonderful years in Shanghai, playing american  football in [Lions](https://weibo.com/p/1005052985465871/home) and CTF in [0ops](https://ctftime.org/team/4419).
 

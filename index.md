@@ -155,7 +155,7 @@ Bo Zhang and Shenghong Li and Zhi Xue},
 + Research Intern, Nio, RTOS Security and Fuzzing, 2022.06-2024.03
 
 ## Academic Service
-+ Sub-Reviewer of ISSTA'24, FSE'24, Oakland'25, ASE'25
++ Sub-Reviewer of ISSTA'24, FSE'24, Oakland'25, ASE'25, CCS'26, ISSTA'26, ICML'26
 
 ## Teaching Experience
 + Teaching Assistant, NIS8017: Security Vulnerability Assessment (Fall 2021, SJTU) 

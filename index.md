@@ -100,6 +100,13 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
   biosite_venue = {Black Hat Asia 2026},
 }
 
+@online{JSProtect,
+  author = {Zhihao Li{\large *} and Chaozheng Wang{\large *} and Zongjie Li and Xinyong Peng and Zelin Su and Qun Xia and Haochuan Lu and Ting Xiong and Man Ho Lam and Shuzheng Gao and \textbf{Yuchong Xie} and Cuiyun Gao and Shuai Wang and Yuetang Deng and Huafeng Ma},
+  title = "JSProtect: A Scalable Obfuscation Framework for Mini-Games in WeChat",
+  biosite_url = {https://arxiv.org/abs/2509.24498},
+  biosite_venue = {ACM International Conference on the Foundations of Software Engineering, Industry Track (FSE 2026)},
+}
+
 @online{MCPParasites,
   author = {Shuli Zhao and Qinsheng Hou and Zihan Zhan and Yanhao Wang and \textbf{Yuchong Xie} and Yu Guo and Libo Chen and Shenghong Li and Zhi Xue},
   title = "Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem",

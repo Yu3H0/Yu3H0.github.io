@@ -87,7 +87,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 }
 
 @online{KLong,
-  author = {Yue Liu and Yingwei Ma and Yibo Miao and Yanhao Li and \textbf{Yuchong Xie} and Xinlong Yang and Zhiyuan Hu and Flood Sung and Jiaheng Zhang and Bryan Hooi and Tianyu Liu},
+  author = {Yue Liu and Yingwei Ma and \textbf{Yuchong Xie} and Zhiyuan Hu and Flood Sung and Jiaheng Zhang and Bryan Hooi},
   title = "KLong: Training LLM Agent for Extremely Long-horizon Tasks",
   biosite_url = {https://arxiv.org/abs/2602.17547},
   biosite_venue = {ICLR 2026 Workshop on Lifelong Agents: Learning, Aligning, Evolving},

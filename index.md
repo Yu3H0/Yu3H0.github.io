@@ -15,13 +15,13 @@
 
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of Yuchong Xie" width="300" height="200" style="max-width: 300px;" /></figure>
 
-I'm a second year Ph.D. student at CSE HKUST, under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). 
+I'm a Ph.D. student at CSE HKUST, supervised by [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I have broad interests in systems and software security, and my research lies at the intersection of Large Language Models (LLMs) and Security.
 
-I have broad interests in systems and software security. My research lies at the intersection of Large Language Models (LLMs) and Security. I am currently working at **Qwen** on coding continual pre-training and post-training for vulnerability discovery, patch generation, and secure code generation. I will be an **Anthropic Security Fellow** starting July 2026. Previously, I was an intern at the **RL team @ Moonshot AI (Kimi)**, where I worked closely with [Tianyu Liu](https://tyliupku.github.io/) and [Yingwei Ma](https://yingweima2022.github.io/).
+I am currently working at **Qwen** on coding continual pre-training and post-training for vulnerability discovery, patch generation, and secure code generation. I will be an **Anthropic Security Fellow** starting July 2026. Previously, I was an intern at the **RL team @ Moonshot AI (Kimi)**, where I worked closely with [Tianyu Liu](https://tyliupku.github.io/) and [Yingwei Ma](https://yingweima2022.github.io/).
 
-I obtained my bachelor and master's degree from [SJTU](https://en.sjtu.edu.cn/). I spent seven wonderful years in Shanghai, playing american  football in [Lions](https://weibo.com/p/1005052985465871/home) and CTF in [0ops](https://ctftime.org/team/4419).
+I obtained my M.S. (2024) and B.S. (2021) from [SJTU](https://en.sjtu.edu.cn/), where I spent seven wonderful years playing American football in [Lions](https://weibo.com/p/1005052985465871/home) and CTF in [0ops](https://ctftime.org/team/4419).
 
- Please feel free to reach out via email at <span id="_eml" class="gl-eml">someone at example dot com</span> or <span id="_eml2" class="gl-eml">someone at example dot com</span> :)
+**I expect to graduate in 2027 and am actively seeking industry positions.** Please feel free to reach out via email at <span id="_eml" class="gl-eml">someone at example dot com</span> or <span id="_eml2" class="gl-eml">someone at example dot com</span> :)
 
 <!--[bio][protect]
 

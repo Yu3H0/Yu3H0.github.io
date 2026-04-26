@@ -86,13 +86,6 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
   biosite_venue = {ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2026)},
 }
 
-@online{KLong,
-  author = {Yue Liu and Yingwei Ma and \textbf{Yuchong Xie} and Zhiyuan Hu and Flood Sung and Jiaheng Zhang and Bryan Hooi},
-  title = "KLong: Training LLM Agent for Extremely Long-horizon Tasks",
-  biosite_url = {https://arxiv.org/abs/2602.17547},
-  biosite_venue = {ICLR 2026 Workshop on Lifelong Agents: Learning, Aligning, Evolving},
-}
-
 @online{AILoop,
   author = {Minghao Lin and Yinyi Wu and Yingqi Shi and \textbf{Yuchong Xie} and Cheng Li and Yizhuo Wang},
   title = "AI in the Loop: Large-Scale macOS PID-Domain Vulnerability Discovery with LLM Reasoning",

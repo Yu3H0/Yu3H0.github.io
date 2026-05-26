@@ -17,7 +17,7 @@
 
 I'm a Ph.D. student at CSE HKUST, supervised by [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I have broad interests in systems and software security, and my research lies at the intersection of Large Language Models (LLMs) and Security.
 
-I am currently working at **Qwen** on coding continual pre-training and post-training for vulnerability discovery, patch generation, and secure code generation. I will be an **Anthropic Security Fellow** starting July 2026. Previously, I was an intern at the **RL team @ Moonshot AI (Kimi)**, where I worked closely with [Tianyu Liu](https://tyliupku.github.io/) and [Yingwei Ma](https://yingweima2022.github.io/).
+I am currently working at **Qwen** on coding continual pre-training and post-training for vulnerability discovery, patch generation, and secure code generation. Previously, I was an intern at the **RL team @ Moonshot AI (Kimi)**, where I worked closely with [Tianyu Liu](https://tyliupku.github.io/) and [Yingwei Ma](https://yingweima2022.github.io/).
 
 I obtained my M.S. (2024) and B.S. (2021) from [SJTU](https://en.sjtu.edu.cn/), where I spent seven wonderful years playing American football in [Lions](https://weibo.com/p/1005052985465871/home) and CTF in [0ops](https://ctftime.org/team/4419).
 
@@ -84,6 +84,13 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
   title = "RandSet: Randomized Corpus Reduction for Fuzzing Seed Scheduling",
   biosite_url = {https://arxiv.org/abs/2602.22729},
   biosite_venue = {ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2026)},
+}
+
+@online{KeyCollision,
+  author = {Zhixiang Zhang and Zesen Liu and \textbf{Yuchong Xie} and Quanfeng Huang and Dongdong She},
+  title = "From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching",
+  biosite_url = {https://arxiv.org/abs/2601.23088},
+  biosite_venue = {Forty-Third International Conference on Machine Learning (ICML 2026)},
 }
 
 @online{AILoop,

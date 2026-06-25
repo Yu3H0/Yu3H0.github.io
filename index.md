@@ -72,6 +72,18 @@ To support more information links (e.g., add "slides" or "pdf" links),
 see "builder/marked.0.3.6/bibtex-service.js" line 109.
 }
 
+@online{RedTeamAgent,
+  author = {\textbf{Yuchong Xie{\large *}} and Mingyu Luo{\large *} and Zesen Liu and Zhixiang Zhang and Kaikai Zhang and Yu Liu and Ci Tao and Changhui Wang and Zongjie Li and Ping Chen and Shuai Wang and Dongdong She},
+  title = "Red-Teaming Coding Agents from a Tool-Invocation Perspective: An Empirical Security Assessment",
+  biosite_venue = {ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)},
+}
+
+@online{CompressAttack,
+  author = {Zesen Liu and Zhixiang Zhang and \textbf{Yuchong Xie} and Dongdong She},
+  title = "When Compression Becomes an Attack Surface: Black-Box Attacks on Prompt-Compressed LLM Agents",
+  biosite_venue = {IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)},
+}
+
 @online{KimiK25,
   author = {Kimi Team},
   title = "Kimi K2.5: Visual Agentic Intelligence",

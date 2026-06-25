@@ -72,6 +72,13 @@ To support more information links (e.g., add "slides" or "pdf" links),
 see "builder/marked.0.3.6/bibtex-service.js" line 109.
 }
 
+@online{KimiK25,
+  author = {Kimi Team},
+  title = "Kimi K2.5: Visual Agentic Intelligence",
+  biosite_url = {https://arxiv.org/abs/2602.02276},
+  biosite_venue = {My contribution focuses on developing agentic cybersecurity capabilities. On the CyberGym benchmark, our system established then-open-source state-of-the-art performance and outperformed Gemini 3 Pro.},
+}
+
 @online{RedTeamAgent,
   author = {\textbf{Yuchong Xie{\large *}} and Mingyu Luo{\large *} and Zesen Liu and Zhixiang Zhang and Kaikai Zhang and Yu Liu and Ci Tao and Changhui Wang and Zongjie Li and Ping Chen and Shuai Wang and Dongdong She},
   title = "Red-Teaming Coding Agents from a Tool-Invocation Perspective: An Empirical Security Assessment",
@@ -82,13 +89,6 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
   author = {Zesen Liu and Zhixiang Zhang and \textbf{Yuchong Xie} and Dongdong She},
   title = "When Compression Becomes an Attack Surface: Black-Box Attacks on Prompt-Compressed LLM Agents",
   biosite_venue = {IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)},
-}
-
-@online{KimiK25,
-  author = {Kimi Team},
-  title = "Kimi K2.5: Visual Agentic Intelligence",
-  biosite_url = {https://arxiv.org/abs/2602.02276},
-  biosite_venue = {My contribution focuses on developing agentic cybersecurity capabilities. On the CyberGym benchmark, our system established then-open-source state-of-the-art performance and outperformed Gemini 3 Pro.},
 }
 
 @online{RandSet,
